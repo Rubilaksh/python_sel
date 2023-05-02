@@ -1,0 +1,26 @@
+dict1 = {"color" : "blue", 10 : 2 , "number" : 20, 1 : "python", "nest" : {"name" : "Jai", "place" : "India"}}
+dict2 = dict({1 : "name" , 2 : "place"})
+dict3 = dict([("vehicle" , "car"), ("country" , "India") , (1 , "chennai")])
+
+print(dict1)
+print(dict2)
+print(dict3)
+
+print(dict1["color"])
+print(dict1[10])
+print(dict1["nest"]["name"])
+print(dict1["nest"])
+print(dict3["vehicle"])
+print(dict3["country"] ,dict3[1])
+
+dict4=dict1.copy()
+print(dict4)
+dict4.clear()
+print(dict4)
+print(dict2.get(2))
+print(dict1.get("nest").get("name"))
+dict3.pop(1)
+print(dict3)
+dict1.popitem()
+print(dict1)
+print(dict1.values())
