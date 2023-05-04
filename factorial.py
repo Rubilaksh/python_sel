@@ -1,3 +1,4 @@
+#program to find factorial of nos
 num = int(input("Enter the number:"))
 factorial = 1
 if num < 0:
