@@ -1,0 +1,3 @@
+learning selenium 
+ file operationsappending the contents to check append mode
+appending the contents to check append mode

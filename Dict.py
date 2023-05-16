@@ -42,6 +42,8 @@ print(dict4.clear())
 
 print(dict1.get(4).get("name"))
 
+
+
 print("Items",dict2.items())
 
 print(dict2.keys())
