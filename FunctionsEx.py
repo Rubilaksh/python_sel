@@ -1,3 +1,4 @@
+
 #Funtions is a block of code which performs a specific task.
 # Moreover this functions can be reused whereas possible
 

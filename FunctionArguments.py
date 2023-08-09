@@ -5,7 +5,7 @@ def multiplication(first_num= 10, second_num=30):
     print(result)
 
 #Positional arguments --> assigns values based on the positional index to the function definition
-multiplication(10, 20)
+multiplication(10,20)
 
 #default functional arguments
 multiplication(10)

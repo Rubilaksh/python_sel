@@ -7,10 +7,10 @@ def multiplication(first_num, second_num):
 
 def greet():
 
-    message= "Am fine"
+    message1= "Am fine"
     global message
 
-    print ("Inside function--> ", message)
+    print ("Inside function--> ", message1)
 
 
 # print(result)
